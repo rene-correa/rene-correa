@@ -1,6 +1,8 @@
-### Hi there 👋 I'm Rene, a Computer Engineer student and Hardware enthusiast! 
+# Hi there 👋 I'm Rene!
 
-# Looking foward to build the future!
+## A Computer Engineer student and Hardware enthusiast! 
+
+### Looking foward to build the future!
 
 
 
