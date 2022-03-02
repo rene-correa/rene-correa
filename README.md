@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Rene, a Computer Engineer student and Hardware enthusiast! 
+
+# Looking foward to build the future!
+
+
 
 <!--
-**rene-correa/rene-correa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Future Ideas:
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+https://github.com/Raymo111/Raymo111
+https://github.com/natemoo-re/natemoo-re
+https://github.com/CyrisXD/CyrisXD
 -->
