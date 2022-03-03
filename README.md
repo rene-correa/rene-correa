@@ -4,12 +4,13 @@
   <h4>Computer Engineer Student ♦ Hardware Enthusiast</h4>
   <p>Looking foward to build the future!!!</p>
 </div>
+<br style="display: inline_block"><br>
 <div align = "center">
   <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" width="35px" height="35px"  src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
   <img align="center" alt="Proteus" width="51px" height="35px"  src="https://www.labcenter.com/images/logo.png">
 </div>
-
+<br style="display: inline_block"><br>
 <div align = "center">
   <p>
     You can find me on 
