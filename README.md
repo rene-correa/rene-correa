@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rene-correa&theme=chartreuse-dark&show_icons=ture&count_private=true&hide=stars&include_all_commits=true&icon_color=3EB489&hide_border=true&border_radius=20&bg_color=DEG,002512,005025,3EB489"/>
   <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=rene-correa&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=rene-correa&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&type=svg"/>
   <br><br>
   Visitors count
   <br>
