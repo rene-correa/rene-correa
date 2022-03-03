@@ -7,8 +7,6 @@
   <img align="center" alt="Proteus" width="51px" height="35px"  src="https://www.labcenter.com/images/logo.png">
 </div>
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
 <!--
 ### A Computer Engineer student and Hardware enthusiast! 
 
