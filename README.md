@@ -5,6 +5,7 @@
   <p>Looking foward to build the future!!!</p>
 </div>
 <div style="display: inline_block">
+  
 <div align = "center">
   <img align="center" alt="Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
@@ -12,6 +13,7 @@
   <img align="center" alt="Linux" width="35px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
   <img align="center" alt="STM" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/st-microelectronics-1-logo-png-transparent.png">
 </div>
+  
 <div style="display: inline_block">
 <p align="center"> 
   Visitors count<br>
