@@ -15,12 +15,12 @@ You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Icons -->
 
 [1.2]: https://i.imgur.com/M6yBwxS.png (instagram icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://i.imgur.com/Vahbdkj.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
 [1]: https://www.instagram.com/rene_correa_/
-[2]: https://www.linkedin.com/in/ren%C3%AA-n-corr%C3%AAa-48b9ab195/
+[2]: https://www.linkedin.com/in/ren%C3%AA-n-corr%C3%AAa-48b9ab195
 
 <!--
 Here are some ideas to get you started:
