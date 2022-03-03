@@ -18,7 +18,7 @@ You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2]
 <!-- Icons -->
 
 [1.2]: https://i.imgur.com/M6yBwxS.png (instagram icon without padding)
-[2.2]: https://cdn-icons-png.flaticon.com/512/174/174857.png (LinkedIn icon without padding)
+[2.2]: https://i.imgur.com/rwYRqn6.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
