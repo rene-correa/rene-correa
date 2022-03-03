@@ -4,7 +4,7 @@
   <h4>Computer Engineer Student ♦ Hardware Enthusiast</h4>
   <p>Looking foward to build the future!!!</p>
 </div>
-<br style="display: inline_block"><br>
+<div style="display: inline_block"><br>
 
 <div align = "center">
   <img align="center" alt="Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -13,7 +13,14 @@
   <img align="center" alt="Linux" width="35px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
   <img align="center" alt="STM" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/st-microelectronics-1-logo-png-transparent.png">
 </div>
-<br style="display: inline_block"><br>
+<div style="display: inline_block"><br>
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/rene-correa/count.svg" />
+</p>
+<div style="display: inline_block"><br>
+  
 <div align = "center">
   <h4>
     You can find me on 
@@ -26,6 +33,7 @@
     </a>
   </h4>
 </div>
+
 
 <!--
 Here are some ideas to get you started:
