@@ -10,21 +10,19 @@
   <img align="center" alt="Proteus" width="51px" height="35px"  src="https://www.labcenter.com/images/logo.png">
 </div>
 
-<!-- Actual text -->
-
-You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2]
-
-
-<!-- Icons -->
-
-[1.2]: https://i.imgur.com/M6yBwxS.png (instagram icon without padding)
-[2.2]: https://i.imgur.com/rwYRqn6.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.instagram.com/rene_correa_/
-[2]: https://www.linkedin.com/in/ren%C3%AA-n-corr%C3%AAa-48b9ab195
-
+<div align = "center">
+  <p>
+    You can find me on 
+    <a href="https://www.instagram.com/rene_correa_/">
+      <img align="center" width="30px" height="30px" src="https://i.imgur.com/M6yBwxS.png" alt="Instagram">
+    </a>
+    , or on
+    <a href="https://www.linkedin.com/in/ren%C3%AA-n-corr%C3%AAa-48b9ab195">
+      <img align="center" alt="LinkedIn" width="30px" height="30px"  src="https://i.imgur.com/rwYRqn6.png">
+    </a>
+  </p>
+</div>
+  
 <!--
 Here are some ideas to get you started:
 
