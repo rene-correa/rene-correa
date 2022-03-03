@@ -12,6 +12,7 @@
 
 You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2]
 
+
 <!-- Icons -->
 
 [1.2]: https://i.imgur.com/M6yBwxS.png (instagram icon without padding)
