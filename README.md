@@ -5,12 +5,13 @@
   <p>Looking foward to build the future!!!</p>
 </div>
 <br style="display: inline_block"><br>
+
 <div align = "center">
-  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" width="35px" height="35px"  src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
-  <img align="center" alt="Proteus" width="51px" height="35px"  src="https://www.labcenter.com/images/logo.png">
+  <img align="center" alt="Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+  <img align="center" alt="Proteus" width="35px" src="https://www.labcenter.com/images/logo.png">
   <img align="center" alt="Linux" width="35" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
-  
+  <img align="center" alt="STM" width="35" src="https://cdn.freebiesupply.com/logos/large/2x/st-microelectronics-1-logo-png-transparent.png">
 </div>
 <br style="display: inline_block"><br>
 <div align = "center">
