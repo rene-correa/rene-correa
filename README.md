@@ -4,7 +4,7 @@
   <h4>Computer Engineer Student ♦ Hardware Enthusiast</h4>
   <p>Looking foward to build the future!!!</p>
 </div>
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   
 <div align = "center">
   <img align="center" alt="Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -14,7 +14,7 @@
   <img align="center" alt="STM" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/st-microelectronics-1-logo-png-transparent.png">
 </div>
   
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/rene-correa/count.svg" />
