@@ -2,7 +2,7 @@
   <h1>Hello there! 👋 I'm Renê!</h1>
 
 </div>
-
+<img align="center" alt="Proteus" width="30px" height="30px"  src="https://www.labcenter.com/images/logo.png">
 
 <!-- # Hi there 👋 I'm Rene!
 
