@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  I'm Renê!</h1>
-  <h4>Computer Engineer Student ♦ Hardware Enthusiast</h4>
+  <h4>Computer Engineer Student ♦ Hardware Developer ♦ Embedded Systems Enthusiast</h4>
   <p>Looking foward to build the future!!!</p>
 </div>
 <div style="display: inline_block"><br>
@@ -17,11 +17,17 @@
   
 <div style="display: inline_block"><br>
 <br>
-<p align="center"> 
-  Visitors count<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rene-correa&theme=chartreuse-dark&show_icons=ture&count_private=true&hide=stars&include_all_commits=true&icon_color=3EB489&hide_border=true&border_radius=20&bg_color=DEG,002512,005025,3EB489"/>
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=rene-correa&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true"/>
+  <br><br>
+  Visitors count
+  <br>
   <img src="https://profile-counter.glitch.me/rene-correa/count.svg" />
 </p>
 <div style="display: inline_block">  
+  
 <div align = "center">
   <br>
   <h4>
@@ -51,8 +57,16 @@ Here are some ideas to get you started:
 
 Future Ideas:
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
-
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+https://github.com/rahuldkjain/github-profile-readme-generator
+
+https://github.com/DenverCoder1/github-readme-streak-stats
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+
+https://github.com/kittinan/spotify-github-profile
+https://github.com/Ileriayo/markdown-badges
+https://github.com/DenverCoder1/readme-typing-svg
 
 https://github.com/Raymo111/Raymo111
 https://github.com/natemoo-re/natemoo-re
