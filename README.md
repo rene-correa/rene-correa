@@ -1,10 +1,12 @@
 <div align="center">
   <h1>Hello there! 👋 I'm Renê!</h1>
-
+  <h4>Computer Engineer Student ◘ Hardware Enthusiast</h4>
+  <p>Looking foward to build the future!!!</p>
 </div>
-<img align="center" alt="Proteus" width="51px" height="35px"  src="https://www.labcenter.com/images/logo.png">
+<div align = "center">
+  <img align="center" alt="Proteus" width="51px" height="35px"  src="https://www.labcenter.com/images/logo.png">
+</div>
 
-<!-- # Hi there 👋 I'm Rene!
 
 ### A Computer Engineer student and Hardware enthusiast! 
 
