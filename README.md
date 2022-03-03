@@ -18,7 +18,7 @@
       <img align="center" width="30px" height="30px" src="https://i.imgur.com/M6yBwxS.png" alt="Instagram">
     </a>
     , or on
-    <a href="https://www.linkedin.com/in/ren%C3%AA-n-corr%C3%AAa-48b9ab195">
+    <a href="https://cdn-icons-png.flaticon.com/512/174/174857.png">
       <img align="center" alt="LinkedIn" width="30px" height="30px"  src="https://i.imgur.com/rwYRqn6.png">
     </a>
   </p>
