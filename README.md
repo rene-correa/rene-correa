@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hello there! 👋 I'm Renê!</h1>
+  <h1>Hello there! �<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ I'm Renê!</h1>
   <h4>Computer Engineer Student ♦ Hardware Enthusiast</h4>
   <p>Looking foward to build the future!!!</p>
 </div>
