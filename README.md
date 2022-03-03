@@ -10,17 +10,20 @@
   <img align="center" alt="Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
   <img align="center" alt="Linux" width="35px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
+  <img align="center" alt="VSCode" width="35px" src="https://code.visualstudio.com/assets/images/code-stable.png">
   <img align="center" alt="Proteus" width="35px" src="https://www.labcenter.com/images/logo.png">
   <img align="center" alt="STM" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/st-microelectronics-1-logo-png-transparent.png">
 </div>
   
 <div style="display: inline_block"><br>
+<br>
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/rene-correa/count.svg" />
 </p>
 <div style="display: inline_block">  
 <div align = "center">
+  <br>
   <h4>
     You can find me on 
     <a href="https://www.instagram.com/rene_correa_/">
