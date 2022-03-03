@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Future Ideas:
+https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 https://github.com/Raymo111/Raymo111
