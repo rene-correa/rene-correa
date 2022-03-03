@@ -1,12 +1,15 @@
-# Hi there 👋 I'm Rene!
+<div align="center">
+  <h2>Hello there! 👋 I'm Renê!</h2>
+
+</div>
+
+
+<!-- # Hi there 👋 I'm Rene!
 
 ### A Computer Engineer student and Hardware enthusiast! 
 
 #### Looking foward to build the future!
 
-
-
-<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
