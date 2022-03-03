@@ -9,21 +9,23 @@
   <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" width="35px" height="35px"  src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
   <img align="center" alt="Proteus" width="51px" height="35px"  src="https://www.labcenter.com/images/logo.png">
+  <img align="center" alt="Linux" width="35" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
+  
 </div>
 <br style="display: inline_block"><br>
 <div align = "center">
-  <p>
+  <h4>
     You can find me on 
     <a href="https://www.instagram.com/rene_correa_/">
-      <img align="center" width="30px" height="30px" src="https://i.imgur.com/M6yBwxS.png" alt="Instagram">
+      <img alt="Instagram" align="center" width="25px" src="https://i.imgur.com/M6yBwxS.png">
     </a>
     , or on
-    <a href="https://cdn-icons-png.flaticon.com/512/174/174857.png">
-      <img align="center" alt="LinkedIn" width="30px" height="30px"  src="https://i.imgur.com/rwYRqn6.png">
+    <a href="https://www.linkedin.com/in/ren%C3%AA-n-corr%C3%AAa-48b9ab195">
+      <img alt="LinkedIn" align="center" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
-  </p>
+  </h4>
 </div>
-  
+
 <!--
 Here are some ideas to get you started:
 
