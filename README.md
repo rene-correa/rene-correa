@@ -2,7 +2,7 @@
   <h1>Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  I'm Renê!</h1>
   <h4>Computer Engineer ♦ Hardware Developer</h4>
-  <p>Looking foward to build the future!!!</p>
+  <p>Looking forward to building the future!!!</p>
 </div>
   
 <div align = "center">
@@ -33,7 +33,7 @@
   <h4>
     You can find me on 
     <a href="https://www.instagram.com/rene_correa_/">
-      <img alt="Instagram" align="center" width="25px" src="https://i.imgur.com/M6yBwxS.png">
+      <img alt="Instagram" align="center" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
     </a>
     , or on
     <a href="https://www.linkedin.com/in/ren%C3%AA-n-corr%C3%AAa-48b9ab195">
