@@ -3,6 +3,11 @@
  I'm Renê!</h1>
   <h4>Computer Engineer ♦ Hardware Developer</h4>
   <p>Looking forward to building the future!!!</p>
+  <p>currently working at</p>
+  <a href="https://www.cnh.com/">
+    <img align="center" alt="CNH" width="100" src="https://www.cnh.com/-/jssmedia/CNHi/cnhicorporate/Home-Page/media/CNH_WHITE_RGB-AREA_TransparentBackground.png?h=852&iar=0&w=1985&rev=-1&hash=31C778A287E5B3515C0E79BC352284A5">
+  </a>
+  
 </div>
   
 <div align = "center">
